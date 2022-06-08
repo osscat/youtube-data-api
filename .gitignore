@@ -1,4 +1,6 @@
 vendor/*
+.vscode/*
+.DS_Store/*
 composer.json
 composer.lock
 client_secret_desktop.json
